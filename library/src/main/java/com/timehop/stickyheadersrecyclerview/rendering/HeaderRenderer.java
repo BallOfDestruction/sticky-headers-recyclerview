@@ -2,9 +2,10 @@ package com.timehop.stickyheadersrecyclerview.rendering;
 
 import android.graphics.Canvas;
 import android.graphics.Rect;
-import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.LinearLayout;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.timehop.stickyheadersrecyclerview.calculation.DimensionCalculator;
 import com.timehop.stickyheadersrecyclerview.util.OrientationProvider;

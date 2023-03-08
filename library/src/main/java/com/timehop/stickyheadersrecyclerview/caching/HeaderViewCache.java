@@ -1,10 +1,11 @@
 package com.timehop.stickyheadersrecyclerview.caching;
 
-import android.support.v4.util.LongSparseArray;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.view.ViewGroup;
+
+import androidx.collection.LongSparseArray;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.timehop.stickyheadersrecyclerview.StickyRecyclerHeadersAdapter;
 import com.timehop.stickyheadersrecyclerview.util.OrientationProvider;
