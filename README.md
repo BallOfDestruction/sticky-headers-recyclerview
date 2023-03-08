@@ -1,6 +1,3 @@
-This project is no longer being maintained
-==========================================
-
 sticky-headers-recyclerview
 ===========================
 
