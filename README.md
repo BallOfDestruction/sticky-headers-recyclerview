@@ -19,9 +19,9 @@ Here is a quick video of it in action (click to see the full video):
 Download
 --------
 
-Current version: [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.timehop.stickyheadersrecyclerview/library/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.timehop.stickyheadersrecyclerview/library)
+Current version: https://jitpack.io/#BallOfDestruction/sticky-headers-recyclerview/
 
-    compile 'com.timehop.stickyheadersrecyclerview:library:[latest.version.number]@aar'
+    implementation 'com.github.BallOfDestruction:sticky-headers-recyclerview:0.5.4'
 
 
 Usage
@@ -103,7 +103,7 @@ Item animators don't play nicely with RecyclerView decorations, so your mileage 
 Compatibility
 -------------
 
-API 11+
+API 14+
 
 Known Issues
 ------------
@@ -116,7 +116,7 @@ Known Issues
 
 Version History
 ---------------
-0.5.2 (12/24/2023) - Updated to newest versions
+0.5.4 (12/24/2023) - Updated to newest versions
 
 0.4.3 (12/24/2015) - Change minSDK to 11, fix issue with header bounds caching
 
