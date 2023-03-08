@@ -116,6 +116,8 @@ Known Issues
 
 Version History
 ---------------
+0.5.2 (12/24/2023) - Updated to newest versions
+
 0.4.3 (12/24/2015) - Change minSDK to 11, fix issue with header bounds caching
 
 0.4.2 (8/21/2015) - Add support for reverse `ReverseLayout` in `LinearLayoutManager` by [AntonPukhonin](https://github.com/AntonPukhonin)
